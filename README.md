@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/Mohitkumar" target="blank"><img align="center" src="https://www.svgrepo.com/show/217760/linkedin.sv"
-alt="https://www.linkedin.com/in/mohit-kumar-9a0977274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc7ghFCm2QoiZAMc1eL4%2Fxg%3D%3D" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohitkumar" target="blank"><img align="center" src="https://www.svgrepo.com/show/217760/linkedin.svg"
+alt="https://www.linkedin.com/in/mohit-kumar-9a0977274/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/20_mohitt" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=webp&w=256" alt="https://www.instagram.com/20_mohitt" height="30" width="30" /></a>
 </p>
 
