@@ -1,28 +1,39 @@
-![MasterHead](https://camo.githubusercontent.com/c91a24cb484deb772b7cf876b7847886253f6b3872654a50733883802f008e56/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
-
-<h1 align="center">Hi 👋, I'm Suhani Patidar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhanipatidar&label=Profile%20views&color=0e75b6&style=flat" alt="suhanipatidar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisharma79&label=Profile%20views&color=0e75b6&style=flat" alt="ravisharma79" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on *Quiz Website , Shopping Website*
+- 🌱 I’m currently learning PYTHON
 
-- 🌱 I’m currently learning *HTML, CSS , JS*
-
-- 📫 How to reach me *suhanipatidar086@gmail.com*
+- 📫 How to reach me *mohitkhoth845@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/Mohitkumar" target="blank"><img align="center" src="https://www.svgrepo.com/show/217760/linkedin.sv"
+alt="https://www.linkedin.com/in/mohit-kumar-9a0977274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc7ghFCm2QoiZAMc1eL4%2Fxg%3D%3D" height="30" width="40" /></a>
+<a href="https://www.instagram.com/20_mohitt" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=webp&w=256" alt="https://www.instagram.com/20_mohitt" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/376344/python.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/373669/html.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/console/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/448236/linux.svg" alt="LINUX" width="40" height="40"/> </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanipatidar&show_icons=true&locale=en&layout=compact" alt="suhanipatidar" /></p>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohitkumar)](https://github.com/Mohitkumar/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhanipatidar&show_icons=true&locale=en" alt="suhanipatidar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohitkumar&show_icons=true&locale=en" alt="Mohitkumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhanipatidar&" alt="suhanipatidar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohitkumar&" alt="Mohitkumar" /></p
