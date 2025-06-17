@@ -16,7 +16,7 @@
     <a href="https://www.instagram.com/20_mohitt/" target="blank">
         <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=webp&w=256" alt="Instagram" height="30" width="30" />
     </a>
-  <a href="mailto:mohitkhoth845@gmail.com.com" target="_blank">
+  <a href="mailto:mohitkhoth845@gmail.com" target="_blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-email-1818372-1541480.png?f=webp&w=256" alt="Email" height="30" width="30" />
 </a>
 
